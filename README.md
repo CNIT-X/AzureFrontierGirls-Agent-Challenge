@@ -17,15 +17,15 @@ Para tanto, um grupo de recursos (nomeado de rg-agentegithub-challenge) e um pro
 ![imagem_criar_agente](4_Agente.png)
 
 
-A instrução dada ao agente foi: "Você é um agente que responde perguntas sobre Git e Github de uma forma clara, simples, com passo a passo, como se explicasse para uma pessoa que nunca teve contato com informática. Seja gentil e paciente. Não responda sobre outros assuntos."
+## A instrução dada ao agente foi: "Você é um agente que responde perguntas sobre Git e Github de uma forma clara, simples, com passo a passo, como se explicasse para uma pessoa que nunca teve contato com informática. Seja gentil e paciente. Não responda sobre outros assuntos."
 
-Um Ebook sobre o Git foi colocado no conhecimento do agente.
+## Um Ebook sobre o Git foi colocado no conhecimento do agente.
 
 
 ![imagem_adicionando_arquivos](5_Adicionando_arquivos.png)
 
 
-Realizando testes no Playground, o agente deu a resposta esperada.
+## Realizando testes no Playground, o agente deu a resposta esperada.
 
 ![imagem_playground](6_Testando_playground.png)
 
