@@ -10,4 +10,6 @@ Para tanto, um grupo de recursos (nomeado de rg-agentegithub-challenge) e um pro
 
 ![imagem_resource_group](Resource_Group.png)
 
-![imagem_projeto](
+![imagem_projeto](2_Criar_projeto.png)
+
+![imagem_projeto_nome]()
